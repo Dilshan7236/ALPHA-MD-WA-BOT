@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
+global.owner = ['94742876482']
+global.premium = ['94742876482']
+global.ownernomer = '94742876482'
 global.ownername = 'Achi Fernando'
 global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
 global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
@@ -33,7 +33,7 @@ global.mess = {
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    public: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Please Wait...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
